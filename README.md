@@ -95,4 +95,4 @@ The project is **active** and functional, with plans for:
 
 ---
 
-Feel free to contribute or suggest improvements! 😊
+Feel free to suggest improvements! 
