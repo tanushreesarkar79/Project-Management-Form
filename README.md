@@ -56,7 +56,7 @@ JsonPowerDB is a high-performance, lightweight NoSQL database that offers the fo
    - Automatically fetch and display the associated project data.
 
 3. **Update a Project**:
-   - Modify the fetched project details and click "Change" to save updates.
+   - Modify the fetched project details and click "Update" to save updates.
 
 ---
 
@@ -70,7 +70,7 @@ The project is **active** and functional, with plans for:
 
 ## Release History
 ### Version 1.0.0
-- **Release Date**: [Insert Release Date]
+- **Release Date**: 19-11-2024
 - Initial release of the **Project Management Form** with full CRUD capabilities using JsonPowerDB.
 
 ---
